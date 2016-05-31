@@ -12,7 +12,7 @@ ____________________
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-
+Keep the stage on standby and add/update files until it makes logical sense to make the commit.
 ____________________
 
 What are some situations when branches would be helpful in keeping your history
