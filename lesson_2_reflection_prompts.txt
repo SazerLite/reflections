@@ -23,7 +23,7 @@ ____________________
 
 How do the diagrams help you visualize the branch structure?
 
-
+It's easy to track which commits parent others. Having a visual map of paths makes it easy to follow.
 ____________________
 
 What is the result of merging two branches together? Why do we represent it in
