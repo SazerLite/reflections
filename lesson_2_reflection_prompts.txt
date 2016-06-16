@@ -39,4 +39,3 @@ Automatic pro: Quicker and easier to do.
 Automatic con: Conflicts may arise that can cause frustration or confusion.
 Manually pro: Much more reliable.
 Manually con: Much more time consuming.
-____________________
