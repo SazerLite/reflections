@@ -15,3 +15,8 @@ Clones are copied repositories from both GitHub and your local computer.
 Branches are separate commit paths that can be merged into one again.
 You use forks when you don't have access to the original repository and clones when working alone.
 ________________________________________
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This way you can make and restore changes without needing access to the internet.
+________________________________________
